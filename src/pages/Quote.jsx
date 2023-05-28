@@ -31,7 +31,7 @@ function Quote() {
                             <button className="btn btn-outline-primary me-5">Submit for quote</button>
                         </div>
                     </form>
-                    <div className="h4 mt-5 quote-info">We will receive you information through an email and reply in a timely manner.  Thank you for considering us for your project.</div>
+                    <div className="h4 mt-5 quote-info">We will receive your information through an email and reply in a timely manner.  Thank you for considering us for your project.</div>
                 </div>
             </div> 
             </div> 
