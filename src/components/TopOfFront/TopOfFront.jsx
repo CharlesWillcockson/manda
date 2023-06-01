@@ -7,7 +7,7 @@ function TopOfFront() {
     <div className="top-container">
         <div className='pt-5 d-flex justify-content-center'>
             <div className="card title-card">
-                <div className="card-title d-flex justify-content-center">M&A Construction</div>
+                <div className="card-title d-flex justify-content-center">G. Daddy Construction</div>
             </div>
         </div>
     </div>
